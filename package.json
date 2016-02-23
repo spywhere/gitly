@@ -1,0 +1,19 @@
+{
+  "name": "gitly",
+  "version": "1.0.0",
+  "description": "A CLI-based git client",
+  "main": "gitly.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^1.1.1",
+    "charm": "^1.0.0",
+    "inherits": "^2.0.1",
+    "msee": "^0.3.1",
+    "through2": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spywhere",
+  "license": "MIT"
+}
